@@ -39,7 +39,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/telephony_vendor.mk)
 $(call inherit-product, vendor/hentai/config/common_telephony.mk)
 
 # Inherit product speciifc makefiles
-$(call inherit-product, device/google/muskie/device-walleye.mk)
+$(call inherit-product, device/google/walleye/device-walleye.mk)
 $(call inherit-product, vendor/google/walleye/walleye-vendor.mk)
 
 PRODUCT_COPY_FILES += \
