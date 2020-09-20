@@ -16,9 +16,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/hentai_walleye.mk \
-    $(LOCAL_DIR)/aosp_walleye_test.mk \
-    $(LOCAL_DIR)/aosp_walleye_hwasan.mk \
 
 COMMON_LUNCH_CHOICES := \
     hentai_walleye-userdebug \
-    aosp_walleye_test-userdebug
+    hentai_walleye-user
