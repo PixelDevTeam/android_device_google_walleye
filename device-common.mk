@@ -16,6 +16,8 @@
 
 LOCAL_PATH := device/google/walleye
 
+TARGET_SYSTEM_PROP := $(LOCAL_PATH)/system.prop
+
 # Audio XMLs
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/mixer_paths_tavil.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_tavil.xml \

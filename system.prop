@@ -1,0 +1,7 @@
+# Pixel 4a spoofing
+ro.build.fingerprint=google/sunfish/sunfish:11/RP1A.200720.011/6746289:user/release-keys
+ro.product.manufacturer=Google
+ro.product.device=walleye
+ro.product.brand=google
+ro.product.name=sunfish
+ro.product.model=Pixel 4a
