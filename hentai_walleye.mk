@@ -49,4 +49,4 @@ PRODUCT_MANUFACTURER := Google
 PRODUCT_BRAND := google
 PRODUCT_NAME := hentai_walleye
 PRODUCT_DEVICE := walleye
-PRODUCT_MODEL := Pixel 2
+PRODUCT_MODEL := Pixel 5a
