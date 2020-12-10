@@ -5,3 +5,4 @@ ro.product.device=walleye
 ro.product.manufacturer=Google
 ro.product.model=Pixel 5
 ro.product.name=redfin
+ro.product.needs_model_edit=true
